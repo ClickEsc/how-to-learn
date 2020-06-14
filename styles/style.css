@@ -17,10 +17,9 @@
   margin: 0 auto;
   background-color: #f2f2f2;
   display: flex;
-  justify-content: flex-start;
+  justify-content: space-around;
   align-items: flex-start;
   flex-direction: column;
-  justify-content: space-around;
   position: relative;
 }
 
@@ -61,7 +60,7 @@
 
 .header__link {
   color: #2f80ed;
-  text-decoration: none
+  text-decoration: none;
 }
 
 .header__main-illustration {
@@ -157,7 +156,7 @@
 .section-subtitle {
   margin: 0 auto;
   line-height: 34px;
-  width: 60%;  
+  width: 60%;
   font-size: 24px;
   font-weight: normal;
   text-align: center;
