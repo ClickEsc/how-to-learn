@@ -1,6 +1,7 @@
 .feynman__feynman-image {
   width: 867px;
   height: 637px;
+  background-image: url('../../images/feynman-image.png');
   position: absolute;
   left: 0;
   bottom: 0;
