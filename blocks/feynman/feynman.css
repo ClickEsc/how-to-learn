@@ -1,4 +1,3 @@
-@import url(./__feynman-image/feynman__feynman-image.css);
 @import url(./__title/feynman__title.css);
 @import url(./__subtitle/feynman__subtitle.css);
 @import url(./__link/feynman__link.css);
@@ -10,4 +9,8 @@
   height: 790px;
   display: block;
   position: relative;
+  background-image: url('../images/feynman-image.png');
+  background-position: left bottom;
+  background-size: 867px 637px;
+  background-repeat: no-repeat;
 }
