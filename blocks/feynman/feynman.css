@@ -9,7 +9,7 @@
   height: 790px;
   display: block;
   position: relative;
-  background-image: url('../images/feynman-image.png');
+  background-image: url('../../images/feynman-image.png');
   background-position: left bottom;
   background-size: 867px 637px;
   background-repeat: no-repeat;
